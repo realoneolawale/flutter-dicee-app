@@ -16,6 +16,6 @@ Agenda included:
 After all these, I made "Dicee" 🎲, a Las Vegas dice app. You can make the die roll at the press of a button.
 
 Source code:
-https://github.com/realoneolawale/flutter-mi-card
+https://github.com/realoneolawale/flutter-dicee-app
 
 #100DaysOfCode #FlutterDev #MobileAppDevelopment #LearnToCode #Flutter #Day3
